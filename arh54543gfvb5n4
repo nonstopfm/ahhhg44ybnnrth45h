@@ -1,0 +1,4 @@
+while true do
+	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.Explosions.Crate.Flare.On.CFrame
+    wait(10000000000000000000000000000000) 
+end
